@@ -61,7 +61,7 @@ const Navbar = () => {
         </div>
 
         <a
-          href="/resume.pdf"
+          href="/Portfolio/public/resume.pdf"
           className="inline-block bg-[#e8a8e8] px-5 py-2.5 text-xs font-medium text-[#151315] transition-all duration-300 hover:bg-[#f3c4f3] hover:shadow-[0_0_20px_rgba(232,168,232,0.25)]"
         >
           View Resume ↗

@@ -14,7 +14,7 @@ const Projects = () => {
         "A movie discovery app where users can search for movies, explore genres, and save their favourites.",
       tech: ["HTML", "CSS", "JavaScript", "API"],
       image: nyxflix,
-      live: "#",
+      live: "https://nyxflix-pearl.vercel.app",
       github: "https://github.com/7pixiee/movie-search-app",
     },
 
